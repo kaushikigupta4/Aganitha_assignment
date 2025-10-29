@@ -47,7 +47,7 @@ This app was designed specifically around those needs.
 
 ## 🛠️ Tech Stack
 
-- **Framework:** React (Next.js client components)  
+- **Framework:** React  
 - **Styling:** Tailwind CSS  
 - **Icons:** Lucide React & React Icons  
 - **API:** [TheMealDB API](https://www.themealdb.com/api.php)
